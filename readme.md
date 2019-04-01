@@ -65,7 +65,7 @@ Here's a rough overview of the algorithms from the Liu *et al* paper, which were
 <img src="images/PathLength.png" width="350">
 </td>
 <td valign="top">
-This is thr version of average path length <tt>c()</tt>, used (different from the original paper):<br>
+This is the version of average path length <tt>c()</tt>, used (different from the original paper):<br>
 <img src="images/avgPathLength.png" width="320">
 
 <p>Also, here's the scoring formula:<br>
